@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801975492880","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801975492880","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801975492880"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
+global.Owner = ["249114832834","967770440543"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["967770440543","967770440543"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["967770440543"];
+global.OwnerName = "Hidar";
+global.BotName = "الطبيب الالي ";
 global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
-global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
+global.author = "By: Hidar";                               //Do not change.
+global.BotSourceCode = "https://T.me/AKM100YE"; //Do not change.
+global.SupportGroupLink = "https://T.me/AKM100YE"; 
 
 
 //
